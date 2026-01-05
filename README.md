@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an A-level student based in Middlesbrough, UK, studying **Mathematics, Physics, and Computer Science**, with predicted grades of **3 A\***s. I am particularly focused on software development and spend much of my time building and improving real-world projects outside of my studies.
+I am an A-level student based in Middlesbrough, UK, studying **Mathematics, Physics, and Computer Science**, with predicted grades of 3 A\*s. I am particularly focused on software development and spend much of my time building and improving real-world projects outside of my studies.
 
 I am currently seeking **part-time voluntary software development experience**, with increased availability during holidays, to gain exposure to a professional development environment and continue developing my technical skills.
 
@@ -48,26 +48,13 @@ A full-stack Blazor web application developed independently as part of my A-leve
 
 ---
 
-## 🤝 Voluntary Experience
-
-**Student Volunteer – Brick Festival (April 2025)**  
-Middlesbrough, North Yorkshire
-
-- Collaborated with other volunteers to support customers and event operations
-- Learned and applied new skills quickly on the day
-- Appointed team leader, assigning roles and ensuring tasks were completed effectively
-
----
-
 ## 🎓 Education
 
 **A-levels (ongoing)**  
 Mathematics, Physics, Computer Science  
-Bede Sixth Form College, Billingham
 
 **GCSEs**  
 Average grade: **7.6**  
-Acklam Grange, Middlesbrough
 
 ---
 
