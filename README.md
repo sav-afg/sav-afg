@@ -44,7 +44,7 @@ A full-stack Blazor web application developed independently as part of my A-leve
 - Component-based UI architecture
 - Full development process documented
 
-➡️ Repository available on my GitHub profile.
+➡️ Repository available on my GitHub profile. <a href="https://github.com/sav-afg/Fitness-Saviour">Fitness Saviour</a>
 
 ---
 
