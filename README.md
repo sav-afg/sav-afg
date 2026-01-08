@@ -62,7 +62,7 @@ Average grade: **7.6**
 
 - Foundational Certificate in **C#**, Microsoft Learn
 - **Silver Certificate**, UKMT Challenge 2024 & 2025
-- Participant, **British Physics Olympiad** and **British Astrophysics Olympiad** (2025)
+- Bronze Certificate, **British Physics Olympiad** and **British Astrophysics Olympiad** (2025)
 
 ---
 
