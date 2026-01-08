@@ -6,7 +6,7 @@ I am currently seeking **part-time voluntary software development experience**, 
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 - **Languages & Core Concepts**
   - C#
@@ -29,7 +29,7 @@ I am currently seeking **part-time voluntary software development experience**, 
 
 ---
 
-## 🛠️ Featured Project
+## Featured Project
 
 ### **Fitness Saviour**  
 *December 2025 – March 2026*
@@ -48,7 +48,7 @@ A full-stack Blazor web application developed independently as part of my A-leve
 
 ---
 
-## 🎓 Education
+## Education
 
 **A-levels (ongoing)**  
 Mathematics, Physics, Computer Science  
@@ -58,7 +58,7 @@ Average grade: **7.6**
 
 ---
 
-## 🏅 Awards & Achievements
+## Awards & Achievements
 
 - Foundational Certificate in **C#**, Microsoft Learn
 - **Silver Certificate**, UKMT Challenge 2024 & 2025
@@ -66,7 +66,7 @@ Average grade: **7.6**
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **GitHub:** https://github.com/sav-afg  
 - **Email:** s_hakimzada@hotmail.com  
