@@ -12,6 +12,7 @@ I am currently seeking **part-time voluntary software development experience**, 
   - C#
   - Object-Oriented Programming
   - Problem Decomposition
+  - Currently Learning: Typescript
 
 - **Web & Application Development**
   - Blazor (Full-stack: frontend and backend)
