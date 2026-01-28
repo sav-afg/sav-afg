@@ -38,7 +38,7 @@ I am currently seeking **part-time voluntary software development experience**, 
 
 ### **Fitness Saviour**
 
-*December 2025 – March 2026*
+*December 2025 – January 2026*
 
 A full-stack Blazor web application developed independently as part of my A-level Computer Science coursework.
 
